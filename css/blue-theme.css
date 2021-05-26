@@ -1,0 +1,18 @@
+.dropdown-after,.content .header-content,.btn-save .btn-tree.bg-lblue,aside,.btn-groups button.save-btn{
+    background: #345094;
+}
+.header-search .btns-tree button.btn.btn-tree{
+    color:#345094;
+}
+.btn-upload i{
+    color:#345094!important;
+}
+.content .header-content ul li{
+    border-right: 1px solid #2e4683
+}
+.content .header-content ul li:last-of-type{
+    border-left: 1px solid #2e4683
+}
+.active{
+    background: #2e4683!important;
+}
